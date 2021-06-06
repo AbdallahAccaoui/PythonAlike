@@ -1,0 +1,7 @@
+L = [3,2343,"dfd",["fhgf",4]]
+L[2] = [3,"Sds"]
+L.insert(2,"Hello")
+L1 = ["df", 34] + [7, "fg"]
+L2 = L[2:]
+D = ["hello","world","from","aub"]
+D2 = [ max(x) for x in D if len(x) > 3]  
